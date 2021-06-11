@@ -1,0 +1,10 @@
+@import "./bg.css";
+
+body{
+    color: red;
+    font-size: 14px;
+}
+
+.hello{
+    color: palegreen;
+}

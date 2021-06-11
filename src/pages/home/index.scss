@@ -1,0 +1,11 @@
+.app {
+    background: red;
+
+    :global{
+        .title {
+            color: #FFF;
+            text-align: center;
+            padding: 30px 0;
+        }
+    } 
+}

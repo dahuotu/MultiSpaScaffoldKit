@@ -1,0 +1,12 @@
+$color: orange;
+
+.sass-container{
+    color: $color;
+    font-size: 30px;
+
+    :global{
+        .work {
+            color: pink;
+        }
+    } 
+}
